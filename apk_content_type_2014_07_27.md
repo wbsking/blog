@@ -1,9 +1,6 @@
 Title: Android apk与Content-Type
-
 Date: 2014-07-27
-
 Category: other
-
 Tag: android, apk安装, Content-Type, MimeType
 
 为公司做的Android App下载程序一致以来在测试机器上也都没有什么问题。但最近发现App安装比较多的手机上，通过网站下载下来的应用，点击后会一直跳转到支付宝的App界面，根本不是正常的安装界面，让人感觉非常的莫名其妙。
