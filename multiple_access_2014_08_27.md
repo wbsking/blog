@@ -50,4 +50,4 @@ Tag: linux, 双线配置
 
   1、如果服务器只启动了一块网卡，而且另一块网卡没有写入配置和启用。如果采用写入网卡的config文件中，需要重启网络服务，这样通过ssh与服务器的连接也会down掉。可以通过ifconfig为我们要启用的网卡设置好IP和mask等等，通过ifconfig ethX up，就不会影响另外一块网卡。
 
-  2、策略路由说明文档：http://lartc.org/howto/index.html
+  2、[策略路由说明文档](http://lartc.org/howto/index.html)
